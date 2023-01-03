@@ -1,1 +1,11 @@
 1$@$whois$@$Stores registered users and other infos like contacts, email, etc$@$https://who.is/
+2$@$nslookup$@$DNS query$@$https://viewdns.info/
+3$@$dig$@$DNS query$@$https://threatintelligenceplatform.com/
+4$@$traceroute$@$Display possible routes and nodes$@$
+5$@$censys$@$Specialised search engine$@$https://search.censys.io/
+6$@$shodan$@$Specialised search engine$@$https://www.shodan.io/
+7$@$recon-ng$@$Framework to automate OSINT$@$https://github.com/lanmaster53/recon-ng
+8$@$dnsrecon$@$Bruteforce subdomains and enumerate DNS records$@$https://github.com/darkoperator/dnsrecon
+9$@$sublist3r$@$Enumerate subdomains using OSINT$@$https://github.com/aboul3la/Sublist3r
+10$@$ffuf$@$Bruteforce subdomains of virtual hosts$@$https://github.com/ffuf/ffuf
+11$@$gobuster$@$Bruteforce directories, subdomains and virtual hosts$@$https://github.com/OJ/gobuster
