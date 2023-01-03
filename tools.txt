@@ -1,9 +1,16 @@
-1$@$whois$@$Stores registered users and other infos like contacts, email, etc$@$https://who.is/
-2$@$nslookup$@$DNS query$@$https://viewdns.info/
-3$@$dig$@$DNS query$@$https://threatintelligenceplatform.com/
+1$@$whois$@$Stores registered users and other infos like contacts, email, etc\n - OSINT$@$https://who.is/
+
+
+2$@$nslookup$@$DNS query - OSINT$@$https://viewdns.info/
+
+
+3$@$dig$@$DNS query - OSINT$@$https://threatintelligenceplatform.com/
+
 4$@$traceroute$@$Display possible routes and nodes$@$
-5$@$censys$@$Specialised search engine$@$https://search.censys.io/\nhttps://censys-python.readthedocs.io/en/stable/quick-start.html
-6$@$shodan$@$Specialised search engine$@$https://www.shodan.io/\nhttps://help.shodan.io/command-line-interface/0-installation
+5$@$censys$@$Specialised search engine - OSINT$@$https://search.censys.io/\nhttps://censys-python.readthedocs.io/en/stable/quick-start.html
+
+6$@$shodan$@$Specialised search engine - OSINT$@$https://www.shodan.io/\nhttps://help.shodan.io/command-line-interface/0-installation
+
 7$@$recon-ng$@$Framework to automate OSINT$@$https://github.com/lanmaster53/recon-ng
 8$@$dnsrecon$@$Bruteforce subdomains and enumerate DNS records$@$https://github.com/darkoperator/dnsrecon
 9$@$sublist3r$@$Enumerate subdomains using OSINT$@$https://github.com/aboul3la/Sublist3r\nhttp://crt.sh/\nhttps://ui.ctsearch.entrust.com/ui/ctsearchui
@@ -13,3 +20,4 @@
 13$@$xfreerdp$@$Open source of FreeRDP Project$@$
 14$@$remmina$@$Supports the RDP, VNC, NX, XDMCP, SPICE, X2Go and SSH protocols$@$https://remmina.org/
 15$@$enum4linux$@$Enumerate info from Windows and Samba systems.\nA wrapper around smbclient, rpclient, net and nmblookup$@$https://github.com/CiscoCXSecurity/enum4linux
+

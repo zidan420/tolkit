@@ -34,6 +34,10 @@ def add_tool():
 	ID = str(ID+1)
 
 	name = get_input("Name: ")
+
+	if (not name.strip()):
+		return
+
 	purpose = get_input("Purpose: ")
 	url = get_input("Url: ")
 
@@ -64,6 +68,10 @@ def edit_tool():
 	if (not os.path.exists(FILENAME)):
 		return
 	ID = get_input("ID to edit: ")
+
+	if (not ID.strip()):
+		return
+
 	name = get_input("Name: ")
 	purpose = get_input("Purpose: ")
 	url = get_input("Url: ")
@@ -80,6 +88,12 @@ def edit_tool():
 	with open(FILENAME, "w") as f:
 		for line in lines:
 			if (ID == line.split('$@$')[0]):
+				if (name == ''):
+					name = line.split('$@$')[1]
+				if (purpose == ''):
+					purpose = line.split('$@$')[2]
+				if (url == ''):
+					url = line.split('$@$')[3]
 				f.write(ID+'$@$'+name+'$@$'+purpose+'$@$'+url+'\n')
 			else:
 				f.write(line)
