@@ -21,3 +21,5 @@
 14$@$remmina$@$Supports the RDP, VNC, NX, XDMCP, SPICE, X2Go and SSH protocols$@$https://remmina.org/
 15$@$enum4linux$@$Enumerate info from Windows and Samba systems.\nA wrapper around smbclient, rpclient, net and nmblookup$@$https://github.com/CiscoCXSecurity/enum4linux
 
+16$@$rpcclient$@$Tool for executing client side MS-RPC functions$@$https://www.samba.org/samba/docs/current/man-html/rpcclient.1.html
+17$@$smbclient$@$Access SMB/CIFS resources on servers$@$https://www.samba.org/samba/docs/current/man-html/smbclient.1.html
