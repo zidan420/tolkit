@@ -9,3 +9,7 @@
 9$@$sublist3r$@$Enumerate subdomains using OSINT$@$https://github.com/aboul3la/Sublist3r
 10$@$ffuf$@$Bruteforce subdomains of virtual hosts$@$https://github.com/ffuf/ffuf
 11$@$gobuster$@$Bruteforce directories, subdomains and virtual hosts$@$https://github.com/OJ/gobuster
+12$@$rlwrap$@$Gives access to history, tab autocompletion and arrow keys$@$https://github.com/hanslub42/rlwrap
+13$@$xfreerdp$@$Open source of FreeRDP Project$@$
+14$@$remmina$@$Supports the RDP, VNC, NX, XDMCP, SPICE, X2Go and SSH protocols$@$https://remmina.org/
+15$@$enum4linux$@$Enumerate info from Windows and Samba systems. A wrapper around smbclient, rpclient, net and nmblookup$@$https://github.com/CiscoCXSecurity/enum4linux
