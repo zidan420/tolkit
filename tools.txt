@@ -2,11 +2,11 @@
 2$@$nslookup$@$DNS query$@$https://viewdns.info/
 3$@$dig$@$DNS query$@$https://threatintelligenceplatform.com/
 4$@$traceroute$@$Display possible routes and nodes$@$
-5$@$censys$@$Specialised search engine$@$https://search.censys.io/
-6$@$shodan$@$Specialised search engine$@$https://www.shodan.io/
+5$@$censys$@$Specialised search engine$@$https://search.censys.io/\nhttps://censys-python.readthedocs.io/en/stable/quick-start.html
+6$@$shodan$@$Specialised search engine$@$https://www.shodan.io/\nhttps://help.shodan.io/command-line-interface/0-installation
 7$@$recon-ng$@$Framework to automate OSINT$@$https://github.com/lanmaster53/recon-ng
 8$@$dnsrecon$@$Bruteforce subdomains and enumerate DNS records$@$https://github.com/darkoperator/dnsrecon
-9$@$sublist3r$@$Enumerate subdomains using OSINT$@$https://github.com/aboul3la/Sublist3r
+9$@$sublist3r$@$Enumerate subdomains using OSINT$@$https://github.com/aboul3la/Sublist3r\nhttp://crt.sh/\nhttps://ui.ctsearch.entrust.com/ui/ctsearchui
 10$@$ffuf$@$Bruteforce subdomains of virtual hosts$@$https://github.com/ffuf/ffuf
 11$@$gobuster$@$Bruteforce directories, subdomains and virtual hosts$@$https://github.com/OJ/gobuster
 12$@$rlwrap$@$Gives access to history, tab autocompletion and arrow keys$@$https://github.com/hanslub42/rlwrap
