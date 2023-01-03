@@ -50,6 +50,7 @@ def list_tool():
 	with open(FILENAME, "r") as f:
 		for line in f:
 			line = line.strip()
+			line = line.replace('\\n', '\n')
 			# skip empty lines
 			if (not line):
 				continue
@@ -157,6 +158,7 @@ def search_tool():
 	with open(FILENAME, 'r') as f:
 		for line in f:
 			line = line.strip()
+			line = line.replace('\\n', '\n')
 			if (not line):
 				continue
 			if (MODE == 'relax'):
