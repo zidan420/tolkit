@@ -1,7 +1,7 @@
 1$@$whois$@$Stores registered users and other infos like contacts, email, etc\n - OSINT$@$https://who.is/
 
 
-2$@$nslookup$@$DNS query - OSINT$@$https://viewdns.info/
+2$@$nslookup$@$DNS query - OSINT$@$https://viewdns.info/\nhttps://dnsdumpster.com/
 
 
 3$@$dig$@$DNS query - OSINT$@$https://threatintelligenceplatform.com/
@@ -14,7 +14,11 @@
 7$@$recon-ng$@$Framework to automate OSINT$@$https://github.com/lanmaster53/recon-ng
 8$@$dnsrecon$@$Bruteforce subdomains and enumerate DNS records$@$https://github.com/darkoperator/dnsrecon
 9$@$sublist3r$@$Enumerate subdomains using OSINT$@$https://github.com/aboul3la/Sublist3r\nhttp://crt.sh/\nhttps://ui.ctsearch.entrust.com/ui/ctsearchui
-10$@$ffuf$@$Bruteforce subdomains of virtual hosts$@$https://github.com/ffuf/ffuf
+10$@$ffuf$@$Bruteforce subdomains, directories, username, password, etc\nwith FUZZ$@$https://github.com/ffuf/ffuf
+
+
+
+
 11$@$gobuster$@$Bruteforce directories, subdomains and virtual hosts$@$https://github.com/OJ/gobuster
 12$@$rlwrap$@$Gives access to history, tab autocompletion and arrow keys$@$https://github.com/hanslub42/rlwrap
 13$@$xfreerdp$@$Open source of FreeRDP Project$@$
@@ -23,3 +27,7 @@
 
 16$@$rpcclient$@$Tool for executing client side MS-RPC functions$@$https://www.samba.org/samba/docs/current/man-html/rpcclient.1.html
 17$@$smbclient$@$Access SMB/CIFS resources on servers$@$https://www.samba.org/samba/docs/current/man-html/smbclient.1.html
+18$@$dirb$@$Bruteforce directories of a web server$@$https://www.kali.org/tools/dirb/
+19$@$rustscan$@$Port Scanner - Faster than nmap$@$https://github.com/RustScan/RustScan
+20$@$fcrackzip$@$Fast Zip Password Cracker$@$https://www.kali.org/tools/fcrackzip/
+21$@$xsltproc$@$Applies XSLT stylesheets to XML docs.\nConverts xml to html$@$http://xmlsoft.org/xslt/xsltproc.html
