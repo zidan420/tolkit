@@ -1,4 +1,5 @@
-1$@$whois$@$Stores registered users and other infos like contacts, email, etc\n - OSINT$@$https://who.is/
+1$@$whois$@$Stores registered users and other infos like contacts, email,\netc - OSINT$@$https://who.is/
+
 
 
 2$@$nslookup$@$DNS query - OSINT$@$https://viewdns.info/\nhttps://dnsdumpster.com/
@@ -30,4 +31,12 @@
 18$@$dirb$@$Bruteforce directories of a web server$@$https://www.kali.org/tools/dirb/
 19$@$rustscan$@$Port Scanner - Faster than nmap$@$https://github.com/RustScan/RustScan
 20$@$fcrackzip$@$Fast Zip Password Cracker$@$https://www.kali.org/tools/fcrackzip/
-21$@$xsltproc$@$Applies XSLT stylesheets to XML docs.\nConverts xml to html$@$http://xmlsoft.org/xslt/xsltproc.html
+21$@$xsltproc$@$Applies XSLT stylesheets to XML docs. Converts xml to html$@$http://xmlsoft.org/xslt/xsltproc.html
+
+22$@$nessus$@$A vulnerability GUI scanner$@$https://docs.tenable.com/nessus/Content/GettingStarted.htm
+23$@$ncrack$@$Bruteforces SSH, RDP, FTP, Telnet, HTTP(S), Wordpress, POP3(S),\nIMAP, CVS, SMB, VNC, SIP, Redis, PostgreSQL, MQTT, MySQL, MSSQL,\nMongoDB, Cassandra, WinRM, OWA, DICOM$@$https://nmap.org/ncrack/
+24$@$medusa$@$Bruteforces CVS, FTP, HTTP, IMAP, MSSQL, MYSQL, NNTP,\nPCANYWHERE, POP3, POSTGRES, REXEC, RLOGIN, RSH, SMBNT,\nSMTP-VRFY, SMTP, SNMP, SSH, SVN, TELNET, VMAUTHD, VNC, WEB-FORM,\nWRAPPER$@$http://www.foofus.net
+
+
+25$@$yersinia$@$A framework for performing layer 2 attacks. Supports protocol:\ncdp, dhcp, dot1q, dot1x, dtp, hsrp, isl, mpls, stp, vtp$@$https://www.kali.org/tools/yersinia/\nhttps://youtu.be/u9vcnApS8Fg
+

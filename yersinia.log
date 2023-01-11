@@ -1,0 +1,60 @@
+# yersinia v0.8.2 started in dell on Wed Jan 11 18:34:52 2023
+
+Network Interface wlp2s0
+
+ wlp2s0 iflinkname EN10MB
+ wlp2s0 iflinkdesc Ethernet
+ wlp2s0 MAC = e402.9b23.140f
+Network Interface br-b52e8ea0d940
+
+ br-b52e8ea0d940 iflinkname EN10MB
+ br-b52e8ea0d940 iflinkdesc Ethernet
+ br-b52e8ea0d940 MAC = 0242.adbe.69e7
+Network Interface veth95a995b
+
+ veth95a995b iflinkname EN10MB
+ veth95a995b iflinkdesc Ethernet
+ veth95a995b MAC = 6e83.4ce6.3f61
+Network Interface vethf5e46a7
+
+ vethf5e46a7 iflinkname EN10MB
+ vethf5e46a7 iflinkdesc Ethernet
+ vethf5e46a7 MAC = a2be.51ca.1b72
+Network Interface lo
+
+ lo iflinkname EN10MB
+ lo iflinkdesc Ethernet
+ lo MAC = 0000.0000.0000
+Network Interface enp3s0
+
+ enp3s0 iflinkname EN10MB
+ enp3s0 iflinkdesc Ethernet
+ enp3s0 MAC = 28f1.0e4b.0230
+Network Interface docker0
+
+ docker0 iflinkname EN10MB
+ docker0 iflinkdesc Ethernet
+ docker0 MAC = 0242.6c7b.958e
+Network Interface bluetooth0
+Network Interface bluetooth-monitor
+pcap_open_live failed: bluetooth-monito: No such device exists (No such device exists)
+Network Interface nflog
+Network Interface nfqueue
+pcap_open_live failed: nfqueue: Can't listen on group index: Operation not permitted
+Network Interface dbus-system
+Network Interface dbus-session
+pcap_open_live failed: dbus-session: Failed to get session bus: /usr/bin/dbus-launch terminated abnormally with the following error: Failed to waitpid() for babysitter intermediate process: No child processes
+
+ g00dbye function called from 5CA1FA80
+
+ th_uptime thread = 5C21D700
+
+ ints_destroy started...
+ ints_destroy killing pcap_listener(1554114304)...
+
+ thread_destroy 5CA1FA80 destroying 5CA1E700...
+ thread_destroy 5CA1FA80 after PTHREAD_JOIN 5CA1E700...
+ ints_destroy finished...
+ Showing MOTD..
+# yersinia finished on Wed Jan 11 18:34:52 2023
+
